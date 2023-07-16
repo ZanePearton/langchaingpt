@@ -1,0 +1,27 @@
+Meeting Title: Team Kick-off Meeting
+   - Date: Monday, 17 July 2023
+   - Time: 9:00 AM - 10:00 AM
+   - Location: Conference Room A
+   - Agenda: Discuss project objectives, roles and responsibilities, timeline
+   - Attendees: Project Team, Project Sponsor
+
+Meeting Title: Weekly Status Update Meeting
+   - Date: Every Wednesday, starting from 19 July 2023
+   - Time: 3:00 PM - 4:00 PM
+   - Location: Virtual Meeting (Zoom)
+   - Agenda: Discuss weekly progress, upcoming tasks, and any issues
+   - Attendees: Project Team
+
+Meeting Title: Monthly Stakeholder Meeting
+   - Date: First Monday of Every Month, starting from 1st August 2023
+   - Time: 2:00 PM - 3:00 PM
+   - Location: Main Conference Room
+   - Agenda: Update stakeholders on project status and achievements
+   - Attendees: Project Team, Stakeholders
+
+Meeting Title: Project Review Meeting
+   - Date: Friday, 22 December 2023
+   - Time: 10:00 AM - 12:00 PM
+   - Location: Conference Room B
+   - Agenda: Review project performance, discuss lessons learned and future improvements
+   - Attendees: Project Team, Project Sponsor, Key Stakeholders
